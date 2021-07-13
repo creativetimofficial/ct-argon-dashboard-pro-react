@@ -62,7 +62,7 @@ _In development mode, some of the above plugins will throw a warning because the
 ### Bug fixing
 
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/26
-- https://github.xcom/creativetimofficial/ct-argon-dashboard-pro-react/issues/21 (this was auto solved by the new reactstrap version)
+- https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/21 (this was auto solved by the new reactstrap version)
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/19
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/17
 
