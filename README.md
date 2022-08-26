@@ -1,6 +1,6 @@
 # [Argon Dashboard PRO React](https://demos.creative-tim.com/argon-dashboard-pro-react/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fargon-dashboard-pro-react&text=Argon%20Dashboard%20PRO%20React%20-%20Premium%20Reactstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%argon-dashboard-pro-react%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=react%2Creactstrap)
 
-![version](https://img.shields.io/badge/version-1.2.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.2.2-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-react/argon-dashboard-pro-react.gif)
 
@@ -162,62 +162,62 @@ Argon Dashboard PRO React
     │       └── sweetalert2
     │           └── dist
     ├── variables
-    │   ├── charts.js
-    │   └── general.js
+    │   ├── charts.jsx
+    │   └── general.jsx
     ├── layouts
-    │   ├── Admin.js
-    │   └── Auth.js
+    │   ├── Admin.jsx
+    │   └── Auth.jsx
     ├── components
     │   ├── Footers
-    │   │   ├── AdminFooter.js
-    │   │   └── AuthFooter.js
+    │   │   ├── AdminFooter.jsx
+    │   │   └── AuthFooter.jsx
     │   ├── Headers
-    │   │   ├── AlternativeHeader.js
-    │   │   ├── AuthHeader.js
-    │   │   ├── CardsHeader.js
-    │   │   ├── IndexHeader.js
-    │   │   ├── ProfileHeader.js
-    │   │   └── SimpleHeader.js
+    │   │   ├── AlternativeHeader.jsx
+    │   │   ├── AuthHeader.jsx
+    │   │   ├── CardsHeader.jsx
+    │   │   ├── IndexHeader.jsx
+    │   │   ├── ProfileHeader.jsx
+    │   │   └── SimpleHeader.jsx
     │   ├── Navbars
-    │   │   ├── AdminNavbar.js
-    │   │   ├── AuthNavbar.js
-    │   │   └── IndexNavbar.js
+    │   │   ├── AdminNavbar.jsx
+    │   │   ├── AuthNavbar.jsx
+    │   │   └── IndexNavbar.jsx
     │   └── Sidebar
-    │       └── Sidebar.js
+    │       └── Sidebar.jsx
     └── views
-        ├── Index.js
+        ├── Index.jsx
         └── pages
-            ├── Calendar.js
-            ├── Charts.js
-            ├── Widgets.js
+            ├── Calendar.jsx
+            ├── Charts.jsx
+            ├── Widgets.jsx
             ├── components
-            │   ├── Buttons.js
-            │   ├── Cards.js
-            │   ├── Grid.js
-            │   ├── Icons.js
-            │   ├── Notifications.js
-            │   └── Typography.js
+            │   ├── Buttons.jsx
+            │   ├── Cards.jsx
+            │   ├── Grid.jsx
+            │   ├── Icons.jsx
+            │   ├── Notifications.jsx
+            │   └── Typography.jsx
             ├── dashboards
-            │   ├── Alternative.js
-            │   └── Dashboard.js
+            │   ├── Alternative.jsx
+            │   └── Dashboard.jsx
             ├── examples
-            │   ├── Lock.js
-            │   ├── Login.js
-            │   ├── Pricing.js
-            │   ├── Profile.js
-            │   ├── Register.js
-            │   └── Timeline.js
+            │   ├── Lock.jsx
+            │   ├── Login.jsx
+            │   ├── Pricing.jsx
+            │   ├── Profile.jsx
+            │   ├── Register.jsx
+            │   └── Timeline.jsx
             ├── forms
-            │   ├── Components.js
-            │   ├── Elements.js
-            │   └── Validation.js
+            │   ├── Components.jsx
+            │   ├── Elements.jsx
+            │   └── Validation.jsx
             ├── maps
-            │   ├── Google.js
-            │   └── Vector.js
+            │   ├── Google.jsx
+            │   └── Vector.jsx
             └── tables
-                ├── ReactBSTables.js
-                ├── Sortable.js
-                └── Tables.js
+                ├── ReactBSTables.jsx
+                ├── Sortable.jsx
+                └── Tables.jsx
 ```
 
 ## Browser Support
@@ -251,7 +251,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2020 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-react)
+- Copyright 2022 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-react)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=github-ad-pro-react)
 
 ## Useful Links
