@@ -1,3 +1,11 @@
+# Change Log
+
+## [1.2.2] 2022-08-26
+
+- Update dependencies
+- Migration to React 18
+- Migration to sass from node-sass
+
 ## [1.2.1] 2021-07-13
 
 ### Bug fixing
