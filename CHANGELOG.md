@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.3] 2022-10-19
+
+- Fix the peer dependencies issue
+
 ## [1.2.2] 2022-08-26
 
 - Update dependencies
@@ -70,7 +74,7 @@ _In development mode, some of the above plugins will throw a warning because the
 ### Bug fixing
 
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/26
-- https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/21 (this was auto solved by the new reactstrap version)
+- https://github.xcom/creativetimofficial/ct-argon-dashboard-pro-react/issues/21 (this was auto solved by the new reactstrap version)
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/19
 - https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues/17
 
