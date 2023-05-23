@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.4] 2023-05-23
+
+- Fix issues
+- Update dependencies
+
 ## [1.2.3] 2022-10-19
 
 - Fix the peer dependencies issue
