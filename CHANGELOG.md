@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.2.5] 2024-01-01
+
+- Update dependencies
+- Fix the error when running `npm start`
+
 ## [1.2.4] 2023-05-23
 
 - Fix issues
@@ -32,22 +37,29 @@
 ### Updated dependencies
 
 ```
-@fortawesome/fontawesome-free    5.15.2   →    5.15.3
-  @fullcalendar/core                5.5.1   →     5.8.0
-  @fullcalendar/daygrid             5.5.0   →     5.8.0
-  @fullcalendar/interaction         5.5.0   →     5.8.0
-  classnames                        2.2.6   →     2.3.1
-  dropzone                          5.7.2   →     5.9.2
-  node-sass                        4.14.1   →     6.0.1
-  nouislider                       14.6.3   →    15.2.0
-  react                            17.0.1   →    17.0.2
-  react-dom                        17.0.1   →    17.0.2
-  react-scripts                     4.0.1   →     4.0.3
-  react-to-print                   2.12.2   →    2.12.6
-  sweetalert2                     10.13.0   →   11.0.18
-  eslint-plugin-flowtype            5.2.0   →     5.8.0
-  gulp-append-prepend               1.0.8   →     1.0.9
-  typescript                        4.1.3   →     4.3.5
+@fullcalendar/core                   6.1.10
+@fullcalendar/daygrid                6.1.10
+@fullcalendar/interaction            6.1.10
+chart.js                             2.9.4
+dropzone                             5.9.3
+nouislider                           15.4.0
+quill                                1.3.7
+react                                18.2.0
+react-bootstrap-sweetalert           5.2.0
+react-bootstrap-table-next           4.0.3
+react-bootstrap-table2-paginator     2.1.2
+react-bootstrap-table2-toolkit       2.1.3
+react-chartjs-2                      2.11.2
+react-copy-to-clipboard              5.1.0
+react-dom                            18.2.0
+react-jvectormap                     0.0.16
+react-quill                          2.0.0
+react-perfect-scrollbar              1.5.8
+react-router-dom                     6.21.1
+react-scripts                        5.0.1
+react-to-print                       2.14.15
+reactstrap                           8.10.0
+typescript                           5.3.3
 ```
 
 ### Warning
@@ -56,17 +68,20 @@
 _The following warnings will appear when running the installation command, but they do not affect the UI or the functionality of the product (they will be solved in our next update):_
 
 ```
-npm WARN react-bootstrap-table-next@4.0.3 requires a peer of react@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-bootstrap-table-next@4.0.3 requires a peer of react-dom@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-bootstrap-table2-paginator@2.1.2 requires a peer of react@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-bootstrap-table2-paginator@2.1.2 requires a peer of react-dom@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-bootstrap-table2-toolkit@2.1.3 requires a peer of react@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-bootstrap-table2-toolkit@2.1.3 requires a peer of react-dom@^16.3.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-quill@1.3.5 requires a peer of react@^0.14.9 || ^15.3.0 || ^16.0.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-datetime@3.0.4 requires a peer of react@^16.5.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-select2-wrapper@1.0.4-beta6 requires a peer of react@^0.14.0 || ^15.0.0-rc || ^15.0.0 || ^16.0.0 but none is installed. You must install peer dependencies yourself.
-npm WARN react-select2-wrapper@1.0.4-beta6 requires a peer of react-dom@^0.14.0 || ^15.0.0-rc || ^15.0.0 || ^16.0.0 but none is installed. You must install peer dependencies yourself.
-npm WARN @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.14.5 requires a peer of @babel/core@^7.13.0 but none is installed. You must install peer dependencies yourself.
+npm WARN deprecated @babel/plugin-proposal-numeric-separator@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-numeric-separator instead.
+npm WARN deprecated @babel/plugin-proposal-nullish-coalescing-operator@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead.
+npm WARN deprecated @babel/plugin-proposal-private-methods@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-methods instead.
+npm WARN deprecated @babel/plugin-proposal-class-properties@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead.
+npm WARN deprecated rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+npm WARN deprecated abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+npm WARN deprecated @babel/plugin-proposal-optional-chaining@7.21.0: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead.
+npm WARN deprecated @babel/plugin-proposal-private-property-in-object@7.21.11: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-property-in-object instead.
+npm WARN deprecated domexception@2.0.1: Use your platform's native DOMException instead
+npm WARN deprecated w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
+npm WARN deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+npm WARN deprecated workbox-cacheable-response@6.6.0: workbox-background-sync@6.6.0
+npm WARN deprecated popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+npm WARN deprecated react-jvectormap@0.0.16: This package is deprecated. Please start using @react-jvectormap/core instead.
 ```
 
 _If they will persist in our 2.*.* version, we will drop their usages and replace them with other plugins._
