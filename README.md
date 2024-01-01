@@ -1,6 +1,6 @@
 # [Argon Dashboard PRO React](https://demos.creative-tim.com/argon-dashboard-pro-react/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fargon-dashboard-pro-react&text=Argon%20Dashboard%20PRO%20React%20-%20Premium%20Reactstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%argon-dashboard-pro-react%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=react%2Creactstrap)
 
-![version](https://img.shields.io/badge/version-1.2.4-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.2.5-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-pro-react/argon-dashboard-pro-react.gif)
 
@@ -26,38 +26,34 @@ If you want to get inspiration or just show something directly to your clients, 
 
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [@fullcalendar/core v4.0.2](https://fullcalendar.io?ref=creativetim)
-- [@fullcalendar/daygrid v4.0.1](https://fullcalendar.io?ref=creativetim)
-- [@fullcalendar/interaction v4.0.2](https://fullcalendar.io?ref=creativetim)
-- [chart.js v2.8.0](https://www.chartjs.org/?ref=creativetim)
-- [classnames v2.2.6](https://github.com/JedWatson/classnames?ref=creativetim)
-- [dropzone v5.5.1](https://www.dropzonejs.com/?ref=creativetim)
-- [list.js v1.5.0](https://listjs.com/?ref=creativetim)
-- [moment v2.24.0](https://momentjs.com/?ref=creativetim)
-- [node-sass v4.11.0](https://github.com/sass/node-sass?ref=creativetim)
-- [nouislider v13.1.4](https://refreshless.com/nouislider/?ref=creativetim)
-- [prop-types v15.7.2](https://www.npmjs.com/package/prop-types?ref=creativetim)
-- [react v16.8.6](https://reactjs.org/?ref=creativetim)
-- [react-bootstrap-sweetalert v4.4.1](http://djorg83.github.io/react-bootstrap-sweetalert/?ref=creativetim)
-- [react-bootstrap-table-next v3.1.0](https://react-bootstrap-table.github.io/react-bootstrap-table2/?ref=creativetim)
-- [react-bootstrap-table2-paginator v2.0.5](https://www.npmjs.com/package/react-bootstrap-table2-paginator?ref=creativetim)
-- [react-bootstrap-table2-toolkit v1.4.0](https://www.npmjs.com/package/react-bootstrap-table2-toolkit?ref=creativetim)
-- [react-chartjs-2 v2.7.6](http://jerairrest.github.io/react-chartjs-2/?ref=creativetim)
-- [react-copy-to-clipboard v5.0.1](http://nkbt.github.io/react-copy-to-clipboard/?ref=creativetim)
-- [react-datetime v2.16.3](https://github.com/YouCanBookMe/react-datetime?ref=creativetim)
-- [react-dom v16.8.6](https://reactjs.org/docs/react-dom.html?ref=creativetim)
-- [react-google-maps v9.4.5](https://tomchentw.github.io/react-google-maps/?ref=creativetim)
-- [react-jvectormap v0.0.6](https://github.com/kadoshms/react-jvectormap?ref=creativetim)
-- [react-notification-alert v0.0.12](https://github.com/creativetimofficial/react-notification-alert#readme?ref=creativetim)
-- [react-perfect-scrollbar v1.4.4](https://github.com/goldenyz/react-perfect-scrollbar?ref=creativetim)
-- [react-quill v1.3.3](https://github.com/zenoamaro/react-quill?ref=creativetim)
-- [react-router v5.0.0](https://reacttraining.com/react-router/?ref=creativetim)
-- [react-router-dom v5.0.0](https://reacttraining.com/react-router/?ref=creativetim)
-- [react-scripts v2.1.8](https://github.com/facebook/create-react-app?ref=creativetim)
+- [@fullcalendar/core v6.1.10](https://fullcalendar.io?ref=creativetim)
+- [@fullcalendar/daygrid v6.1.10](https://fullcalendar.io?ref=creativetim)
+- [@fullcalendar/interaction v6.1.10](https://fullcalendar.io?ref=creativetim)
+- [chart.js v2.9.4](https://www.chartjs.org/?ref=creativetim)
+- [classnames v2.3.2](https://github.com/JedWatson/classnames?ref=creativetim)
+- [dropzone v5.9.3](https://www.dropzonejs.com/?ref=creativetim)
+- [list.js v2.3.1](https://listjs.com/?ref=creativetim)
+- [moment v2.29.4](https://momentjs.com/?ref=creativetim)
+- [nouislider v15.4.0](https://refreshless.com/nouislider/?ref=creativetim)
+- [prop-types v15.8.1](https://www.npmjs.com/package/prop-types?ref=creativetim)
+- [react v18.2.0](https://reactjs.org/?ref=creativetim)
+- [react-bootstrap-sweetalert v5.2.0](http://djorg83.github.io/react-bootstrap-sweetalert/?ref=creativetim)
+- [react-bootstrap-table-next v4.0.3](https://react-bootstrap-table.github.io/react-bootstrap-table2/?ref=creativetim)
+- [react-bootstrap-table2-paginator v2.1.2](https://www.npmjs.com/package/react-bootstrap-table2-paginator?ref=creativetim)
+- [react-bootstrap-table2-toolkit v2.1.3](https://www.npmjs.com/package/react-bootstrap-table2-toolkit?ref=creativetim)
+- [react-chartjs-2 v2.11.2](http://jerairrest.github.io/react-chartjs-2/?ref=creativetim)
+- [react-copy-to-clipboard v5.1.0](http://nkbt.github.io/react-copy-to-clipboard/?ref=creativetim)
+- [react-datetime v3.2.0](https://github.com/YouCanBookMe/react-datetime?ref=creativetim)
+- [react-dom v18.2.0](https://reactjs.org/docs/react-dom.html?ref=creativetim)
+- [react-jvectormap v0.0.16](https://github.com/kadoshms/react-jvectormap?ref=creativetim)
+- [react-notification-alert v0.0.13](https://github.com/creativetimofficial/react-notification-alert#readme?ref=creativetim)
+- [react-perfect-scrollbar v1.5.8](https://github.com/goldenyz/react-perfect-scrollbar?ref=creativetim)
+- [react-quill v2.0.0](https://github.com/zenoamaro/react-quill?ref=creativetim)
+- [react-router-dom v6.21.1](https://reacttraining.com/react-router/?ref=creativetim)
+- [react-scripts v5.0.1](https://github.com/facebook/create-react-app?ref=creativetim)
 - [react-select2-wrapper v1.0.4-beta6](https://github.com/rkit/react-select2-wrapper?ref=creativetim)
-- [react-tagsinput v3.19.0](https://github.com/olahol/react-tagsinput?ref=creativetim)
-- [react-to-print v2.1.0](https://github.com/gregnb/react-to-print#readme?ref=creativetim)
-- [reactstrap v8.0.0](https://reactstrap.github.io/?ref=creativetim)
+- [react-to-print v2.14.15](https://github.com/gregnb/react-to-print#readme?ref=creativetim)
+- [reactstrap v8.10.0](https://reactstrap.github.io/?ref=creativetim)
 
 Let us know your thoughts below. And good luck with development!
 
@@ -251,7 +247,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2022 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-react)
+- Copyright 2024 Creative Tim (https://www.creative-tim.com?ref=github-ad-pro-react)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=github-ad-pro-react)
 
 ## Useful Links
