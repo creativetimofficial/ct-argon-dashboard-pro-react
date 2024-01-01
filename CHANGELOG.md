@@ -37,29 +37,22 @@
 ### Updated dependencies
 
 ```
-@fullcalendar/core                   6.1.10
-@fullcalendar/daygrid                6.1.10
-@fullcalendar/interaction            6.1.10
-chart.js                             2.9.4
-dropzone                             5.9.3
-nouislider                           15.4.0
-quill                                1.3.7
-react                                18.2.0
-react-bootstrap-sweetalert           5.2.0
-react-bootstrap-table-next           4.0.3
-react-bootstrap-table2-paginator     2.1.2
-react-bootstrap-table2-toolkit       2.1.3
-react-chartjs-2                      2.11.2
-react-copy-to-clipboard              5.1.0
-react-dom                            18.2.0
-react-jvectormap                     0.0.16
-react-quill                          2.0.0
-react-perfect-scrollbar              1.5.8
-react-router-dom                     6.21.1
-react-scripts                        5.0.1
-react-to-print                       2.14.15
-reactstrap                           8.10.0
-typescript                           5.3.3
+@fortawesome/fontawesome-free    5.15.2   →    5.15.3
+@fullcalendar/core                5.5.1   →     5.8.0
+@fullcalendar/daygrid             5.5.0   →     5.8.0
+@fullcalendar/interaction         5.5.0   →     5.8.0
+classnames                        2.2.6   →     2.3.1
+dropzone                          5.7.2   →     5.9.2
+node-sass                        4.14.1   →     6.0.1
+nouislider                       14.6.3   →    15.2.0
+react                            17.0.1   →    17.0.2
+react-dom                        17.0.1   →    17.0.2
+react-scripts                     4.0.1   →     4.0.3
+react-to-print                   2.12.2   →    2.12.6
+sweetalert2                     10.13.0   →   11.0.18
+eslint-plugin-flowtype            5.2.0   →     5.8.0
+gulp-append-prepend               1.0.8   →     1.0.9
+typescript                        4.1.3   →     4.3.5
 ```
 
 ### Warning
